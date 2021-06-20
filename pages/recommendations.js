@@ -17,11 +17,11 @@ export default function recommendations() {
         }
     }, [data.texture])
     return (
-        <div>
+        <div >
             {
                 resp ? resp.map((r, idx) => {
                     return (
-                        <div className="mt-6" key={idx}>
+                        <div className="mt-6" key={idx} className="box">
                         <p className="title">{r.soilType}</p>
                         <p className="subtitle">{r.msg}</p>
                     </div>)
