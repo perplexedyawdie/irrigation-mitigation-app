@@ -31,7 +31,9 @@ function MyApp({ Component, pageProps }) {
       }
       </AppContext.Provider>
 
-
+      <div className="hero-foot is-flex is-justify-content-center">
+        <a href="/about" className="subtitle is-link mb-4">Attributions</a>
+      </div>
     </section>
   </>)
 }
