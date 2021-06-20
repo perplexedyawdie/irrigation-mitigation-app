@@ -5,7 +5,7 @@ export default (req, res) => {
   let clay = req.body.silt;
   let silt = req.body.sand;
   if (req.method === 'POST') {
-    axios.post('45.79.45.68:3011/soiltexture', {
+    axios.post('http://45.79.45.68:3011/soiltexture', {
       "clay":clay,
       "sand":sand,
       "silt":silt
@@ -15,5 +15,5 @@ export default (req, res) => {
     console.log(err)
   });
   }
-  res.status(200).json({ name: 'John Doe' })
+
 }
