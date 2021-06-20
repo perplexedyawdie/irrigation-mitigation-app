@@ -8,7 +8,6 @@
 
 > Irrigation Mitigation helps you determine the soil types in your garden. This is important because the percentage of clay, sand and silt in your soil will affect the amount of water it holds. With this information, you're able to determine your soil texture and based on this, you can further determine how much water it retains. This can help to better inform your watering schedule based on the weather and possibly lead to a reduction in the amount of water used.
 
-### 🏠 [Homepage](https://irrigation-mitigation.vercel.app)
 
 ### ✨ [Demo](https://irrigation-mitigation.vercel.app)
 
