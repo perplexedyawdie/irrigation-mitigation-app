@@ -1,7 +1,7 @@
 import '../sass/styles.scss'
 import { useState } from 'react'
 import Head from 'next/head'
-import Stepper from '../components/stepper'
+import Stepper from '../components/Stepper'
 import AppContext from '../context/AppContext'
 function MyApp({ Component, pageProps }) {
   const [texture, setTexture] = useState(null)
