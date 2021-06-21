@@ -33,5 +33,9 @@ npm run dev
 
 Give a ⭐️ if this project helped you!
 
+## Review Poddie
+
+[My thoughts on how it went.](https://anchor.fm/javel-rowe/episodes/Got-caught-lacking-when-hacking-e1352a4)
+
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
